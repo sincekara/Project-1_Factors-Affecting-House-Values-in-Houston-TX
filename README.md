@@ -32,13 +32,15 @@ In this project, I have investigated whether there was a statistical signifiganc
   * Creating line and scatter plots regarding the relation ship between population increase and house value increase.
 * Jupyter Notebook is also used to create a heatmap of the Cities in Houston area based on their population and zipcodes.
 
+![](image/h15.PNG)
+
 ## Outcomes of the population ad housing values analysis
 * Line and scatter plots showed the strong corelation between increasing population and mean house values in the research area.
 
-![](image/Population_and_housing_values.PNG)
+![](image/h18.PNG)
 
 * T-test scores indicated a strong statistical signifigance between population growth and median house values between 2011 and 2017.
 
-![](image/T-test_scores.PNG)
+![](image/h19.PNG)
 
 * Southwest and Northwest regions were the two regions experiences fastest population growth and house values increase in the given regions.
