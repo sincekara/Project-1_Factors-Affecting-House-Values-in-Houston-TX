@@ -1,3 +1,5 @@
+![](image/h20.PNG)
+
 # Project Outcomes
 
 House’s values in Houston Area are generally higher than average in Harris County. In which, Inner Loop and Southwest are most expensive
