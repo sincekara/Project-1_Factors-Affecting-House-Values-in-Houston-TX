@@ -2,7 +2,7 @@
 
 House’s values in Houston Area are generally higher than average in Harris County. In which, Inner Loop and Southwest are most expensive
 
-#M onthly housing costs 
+# Monthly housing costs 
 
 in Houston Area is cheaper than average, positively affect house values, making a stronger impact in Houston Area. However, the strength of correlation declines over time. 
 One exception is Northwest region where the correlation is very weak.
