@@ -38,4 +38,7 @@ In this project, I have investigated whether there was a statistical signifiganc
 ![](image/Population_and_housing_values.PNG)
 
 * T-test scores indicated a strong statistical signifigance between population growth and median house values between 2011 and 2017.
+
+![](image/T-test_scores.PNG)
+
 * Southwest and Northwest regions were the two regions experiences fastest population growth and house values increase in the given regions.
